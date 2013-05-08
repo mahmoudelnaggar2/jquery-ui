@@ -23,6 +23,9 @@
 	"highlight": {
 		"description": "Highlights the background of an element in a defined color for a custom duration."
 	},
+	"puff": {
+		"description": "Creates a puff effect by scaling the element up and hiding it at the same time."
+	},
 	"pulsate": {
 		"description": "Pulsates an element n times by changing the opacity to zero and back."
 	},
@@ -31,6 +34,9 @@
 	},
 	"shake": {
 		"description": "Shakes an element horizontally or vertically n times."
+	},
+	"size": {
+		"description": "Resize an element to a specified width and height."
 	},
 	"slide": {
 		"description": "Slides an element in and out of the viewport."
